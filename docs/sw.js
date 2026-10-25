@@ -1,5 +1,5 @@
 // 출석부 오프라인 캐시 — 버전을 올리면 새 캐시로 교체된다
-const VERSION = 'v2.0.0';
+const VERSION = 'v2.1.0';
 const CACHE = 'attendance-' + VERSION;
 const FONT_CACHE = 'attendance-fonts';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-512.png', 'icons/apple-touch-icon.png'];
